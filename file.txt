@@ -6,3 +6,7 @@ git config --global user.email <your_email@whatewer.com>
 3) git add filename -> додати файл в staging area
 4) git commit -m "commit msg" -> зробити коміт
 5) git log -> відобразити лог комітів/репо
+6) git remote add origin git@github.com:YuliaSher/Java16M1L2.git
+7) git branch -M main
+8) git push -u origin main
+9) git remote -v
